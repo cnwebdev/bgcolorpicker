@@ -18,4 +18,6 @@ picker1.addEventListener('input', changeBgColor);
 
 picker2.addEventListener('input', changeBgColor);
 
+h3Title.textContent = `linear-gradient(to right, ${picker1.value}, ${picker2.value})`;
+
 
