@@ -1,4 +1,4 @@
-# Backgound Gradient Color Picker
+# Background Gradient Color Picker
 A simple background picker app exercise
 
 ## Run App
